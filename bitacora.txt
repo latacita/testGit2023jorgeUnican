@@ -39,12 +39,12 @@
 31	Push Origin develop
 32	Checkout feature/Ticket222	
 33	Merge develop
-34
-35
-36
-37
-38
-39
+34	---			    Se escribe en el archivo bitacora.txt
+35	Commit -m "Paso 35"
+36	Checkout develop
+37	Merge feature/Ticket222
+38	Checkout master
+39	Merge develop
 40
 41
 42
