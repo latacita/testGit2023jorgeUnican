@@ -7,9 +7,9 @@
  Paso   Acción                       Notas
 ====== ============================ ================================
 01	Clone
-02
-03	
-04	
+02	---			    Se escribe en el archivo bitacora.txt
+03	Commit -m "Paso 03"
+04	Push Origin master
 05	
 06		
 07	
