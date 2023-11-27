@@ -18,8 +18,8 @@
 10
 11	
 12	
-13	
-14	
+13	---			    Se escribe en el archivo bitacora.txt
+14	Stash save + Checkout Ticket220
 15	
 16	
 17	
