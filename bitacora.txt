@@ -14,26 +14,26 @@
 06	Commit -m "Paso 06"
 07	Branch develop
 08	Branch feature/Ticket220
-09
-10
-11	
-12	
+09	---			    Se escribe en el archivo bitacora.txt
+10	Commit -m "Paso 10"
+11	Checkout develop
+12	Branch feature/Ticket221 + Checkout feature/Ticket221 
 13	---			    Se escribe en el archivo bitacora.txt
 14	Stash save + Checkout Ticket220
 15	
-16	
-17	
-18	
+16	Commit -m "Paso 16"
+17	Checkout feature/Ticket221
+18	---			    Se escribe en el archivo bitacora.txt
 19	Commit -m "Paso 19"
 20	Checkout develop
 21	Branch feature/Ticket222
 22	Checkout feature/Ticket220
 23	---			   Sería fast-forward
-24	
-25	
-26	
-27	
-28	
+24	Commit -m "Paso 24"
+25	Checkout develop
+26	Merge feature/Ticket220	    El merge no es recursivo, es ff (no se forzarlo ?)
+27	Merge feature/Ticket221	    El merge es recursivo, hay conflictos
+28	---			    Se escribe en el archivo bitacora.txt
 29
 30	
 31
