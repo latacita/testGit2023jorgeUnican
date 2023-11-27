@@ -34,11 +34,11 @@
 26	Merge feature/Ticket220	    El merge no es recursivo, es ff (no se forzarlo ?)
 27	Merge feature/Ticket221	    El merge es recursivo, hay conflictos
 28	---			    Se escribe en el archivo bitacora.txt
-29
-30	
-31
-32
-33
+29	Commit -m "Paso 29"
+30	Tag Step29
+31	Push Origin develop
+32	Checkout feature/Ticket222	
+33	Merge develop
 34
 35
 36
