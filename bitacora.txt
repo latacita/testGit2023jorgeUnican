@@ -24,11 +24,11 @@
 16	
 17	
 18	
-19	
-20	
-21	
-22	
-23	
+19	Commit -m "Paso 19"
+20	Checkout develop
+21	Branch feature/Ticket222
+22	Checkout feature/Ticket220
+23	---			   Sería fast-forward
 24	
 25	
 26	
