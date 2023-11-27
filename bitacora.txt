@@ -48,3 +48,6 @@
 40
 41
 42
+
+Nota: En la linea 18, se me ha olvidado apuntar el stash pop, la línea debería quedar tal que así: 
+18	Stash pop		    Se escribe en el archivo bitacora.txt
