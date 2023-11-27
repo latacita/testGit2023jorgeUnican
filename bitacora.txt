@@ -10,12 +10,12 @@
 02	---			    Se escribe en el archivo bitacora.txt
 03	Commit -m "Paso 03"
 04	Push Origin master
-05	
-06		
-07	
-08	
-09	
-10	
+05	---			    Se escribe en el archivo bitacora.txt
+06	Commit -m "Paso 06"
+07	Branch develop
+08	Branch feature/Ticket220
+09
+10
 11	
 12	
 13	
